@@ -1,0 +1,13 @@
+.navbar_container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gainsboro;
+}
+.buttonNavbar{
+    background-color: pink;
+    font-weight: bolder;
+    font-size: 16px;
+    border-radius: 10%;
+    padding: 5px 20px;
+}

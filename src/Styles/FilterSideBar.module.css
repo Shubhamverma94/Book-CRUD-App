@@ -1,0 +1,11 @@
+.FilterByCss,.SortByCss{
+    border: 5px solid gray ;
+    margin: 10px;
+    padding: 5px;
+}
+.FilterByDiv, .SortByDiv{
+    display: flex;
+    padding: 5px 20px;
+    gap: 10px;
+    border: 1px solid gray;
+}
